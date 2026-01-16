@@ -32,6 +32,11 @@ This project delivers a multi-layered Power BI dashboard analyzing employee perf
 - 📈 **Experience & Compensation Trends**: Visualizes total work experience, number of companies worked, and hourly rate distributions.
 
 The dashboard is designed for clarity, interactivity, and strategic workforce planning.
+<img width="1386" height="716" alt="image" src="https://github.com/user-attachments/assets/40720ad5-785e-4560-ab8d-befda7b3640b" /> <img width="1350" height="707" alt="image" src="https://github.com/user-attachments/assets/dc3ed62e-7e2b-44a8-93ed-cc633b2dd3dd" />  <img width="1382" height="707" alt="image" src="https://github.com/user-attachments/assets/82fe30c7-3e8d-4563-985a-2a0c3648a2f5" />
+
+
+
+
 
 ---
 
