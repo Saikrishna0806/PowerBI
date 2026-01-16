@@ -13,7 +13,7 @@ This project presents a comprehensive Power BI dashboard built using Dmart retai
 
 The dashboard emphasizes interactivity, clarity, and actionable insights for retail decision-makers.
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0b514980-b289-46ba-8423-d5ba148fba56" 
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/ad384d13-4859-448a-bd54-10e29fc213b2" />
+img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/ad384d13-4859-448a-bd54-10e29fc213b2" />
 
 
 ---
