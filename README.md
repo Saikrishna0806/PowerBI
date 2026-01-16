@@ -12,7 +12,7 @@ This project presents a comprehensive Power BI dashboard built using Dmart retai
 - 📈 **Year-over-Year Performance**: Displays trends in sales and profit over time to support strategic planning.
 
 The dashboard emphasizes interactivity, clarity, and actionable insights for retail decision-makers.
-<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/0b514980-b289-46ba-8423-d5ba148fba56" /> <img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/ad384d13-4859-448a-bd54-10e29fc213b2" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/0b514980-b289-46ba-8423-d5ba148fba56" /> <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/ad384d13-4859-448a-bd54-10e29fc213b2" />
 
 
 ---
@@ -29,7 +29,7 @@ This project delivers a multi-layered Power BI dashboard analyzing employee perf
 - 📈 **Experience & Compensation Trends**: Visualizes total work experience, number of companies worked, and hourly rate distributions.
 
 The dashboard is designed for clarity, interactivity, and strategic workforce planning.
-<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/40720ad5-785e-4560-ab8d-befda7b3640b" /> <img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/dc3ed62e-7e2b-44a8-93ed-cc633b2dd3dd" />  <img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/82fe30c7-3e8d-4563-985a-2a0c3648a2f5" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/40720ad5-785e-4560-ab8d-befda7b3640b" /> <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/dc3ed62e-7e2b-44a8-93ed-cc633b2dd3dd" />  <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/82fe30c7-3e8d-4563-985a-2a0c3648a2f5" />
 
 
 
