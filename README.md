@@ -63,8 +63,9 @@ This dashboard analyzes retail performance across categories, regions, and custo
 - 👤 **Customer-Level Metrics**: Displays average sales and quantity per customer to highlight buying behavior and loyalty.
 - 📈 **Sales vs. Profit Trends**: Visualizes performance across cities and categories to support pricing and inventory decisions.
 
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/914404b8-f407-42f0-99db-b293052da3fd" />
+
 Built for clarity and interactivity, this dashboard supports data-driven retail strategy
-         <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/914404b8-f407-42f0-99db-b293052da3fd" />
 
 
 
