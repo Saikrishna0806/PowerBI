@@ -12,7 +12,8 @@ This project presents a comprehensive Power BI dashboard built using Dmart retai
 - 📈 **Year-over-Year Performance**: Displays trends in sales and profit over time to support strategic planning.
 
 The dashboard emphasizes interactivity, clarity, and actionable insights for retail decision-makers.
-### <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9f5b9cfb-3f14-461d-a046-784c753e8a01" />
+<img width="1333" height="756" alt="image" src="https://github.com/user-attachments/assets/0b514980-b289-46ba-8423-d5ba148fba56" />
+
 https://github.com/user-attachments/assets/9f5b9cfb-3f14-461d-a046-784c753e8a01
 <img width="1355" height="765" alt="image" src="https://github.com/user-attachments/assets/ad384d13-4859-448a-bd54-10e29fc213b2" />
 
